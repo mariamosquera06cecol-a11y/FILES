@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "EWalletBunker",
+    "slug": "ewalletbunker",
+    "version": "1.0.0",
+    "sdkVersion": "51.0.0",
+    "platforms": ["android", "ios"],
+    "android": {
+      "package": "com.adsopay.ewalletbunker"
+    },
+    "newArchEnabled": false,
+    "experiments": {
+      "turboModules": false
+    }
+  }
+}
